@@ -12,37 +12,35 @@
 
 **01080**
 
-Is the tension of the black rope less than that of the black rope?
+Is the mass of the cyan sphere greater than that of the brown sphere?
 
 **01081**
 
-Is there any green rope in the video?
+Is there any orange rope in the video?
 
 **01082**
 
-If the cyan sphere were much lighter, which of the following would happen?
+If we want the red pulley to rotate anti-clockwise, what can we do?
 
-A. The green pulley would rotate clockwise
-
-B. The green pulley would not rotate
-
-C. The green pulley would move up
-
-D. The purple pulley would move up
-
-**01083**
-
-If we want the red pulley to rotate clockwise, what can we do?
-
-A. Decrease the mass of the red cube
+A. Decrease the mass of the cyan sphere
 
 B. Decrease the mass of the brown cube
 
-C. Decrease the mass of the brown sphere
+C. Decrease the mass of the red cube
 
-D. Increase the mass of the brown sphere
+D. Increase the mass of the red cube
 
-E. Increase the mass of the brown cube
+E. Decrease the mass of the brown sphere
+
+**01083**
+
+If the brown cube were much lighter, which direction would the blue pulley move?
+
+A. Down
+
+B. Up
+
+C. Stationary
 
 ----
 
@@ -54,35 +52,37 @@ E. Increase the mass of the brown cube
 
 **01720**
 
-Is there any blue fixed point in the video?
+How many cubes are there in the video?
 
 **01721**
 
-How many green objects are there in the video?
+How many purple objects are there in the video?
 
 **01722**
 
-Which of the following would happen if the white sphere were much lighter?
+What would happen if the cyan cube were much lighter?
 
-A. The cyan cube would move down
+A. The white pulley would rotate anti-clockwise
 
-B. The blue pulley would move down
+B. The orange solid pulley would not rotate
 
-C. The cyan cube would move up
+C. The white pulley would move down
 
-D. The white sphere would move up
+D. The blue pulley would rotate anti-clockwise
 
-E. The orange hollow pulley would rotate anti-clockwise
+E. The pink pulley would rotate anti-clockwise
 
 **01723**
 
-If the white sphere were much lighter, which direction would the white pulley move?
+If we want the cyan cube to move up, what can we do?
 
-A. Stationary
+A. Decrease the mass of the cyan cube
 
-B. Up
+B. Increase the mass of the white sphere
 
-C. Down
+C. Increase the mass of the cyan cube
+
+D. Decrease the mass of the white sphere
 
 ----
 
@@ -94,31 +94,31 @@ C. Down
 
 **00384**
 
-Is there any orange cube in the video?
+Is there any pink hollow pulley in the video?
 
 **00385**
 
-How many fixed points are there in the video?
+Is the mass of the orange cube equal to that of the pink sphere?
 
 **00386**
 
-Which of the following would happen if the orange cube were much lighter?
+If we want the brown pulley to rotate clockwise, what can we do?
 
-A. The white pulley would rotate clockwise
+A. Increase the mass of the orange cube
 
-B. The pink sphere would move down
+B. Decrease the mass of the pink sphere
 
-C. The yellow pulley would rotate clockwise
+C. Decrease the mass of the orange cube
 
 **00387**
 
-Which direction would the gray pulley rotate if the pink sphere were much lighter?
+If the pink sphere were much heavier, which direction would the yellow pulley move?
 
-A. Clockwise
+A. Up
 
 B. Stationary
 
-C. Anti-clockwise
+C. Down
 
 ----
 
@@ -130,37 +130,33 @@ C. Anti-clockwise
 
 **00312**
 
-How many pulleys are there in the video?
+Is the mass of the pink sphere greater than that of the blue cube?
 
 **00313**
 
-How many green objects are there in the video?
+Is there any brown fixed point in the video?
 
 **00314**
 
-What would happen if the blue cube were much lighter?
+What can we do to let the blue cube to move up?
 
-A. The green pulley would rotate clockwise
-
-B. The pink pulley would rotate anti-clockwise
-
-C. The red pulley would rotate clockwise
-
-D. The red pulley would move down
-
-E. The blue cube would move up
-
-**00315**
-
-If we want the red pulley to rotate anti-clockwise, what can we do?
-
-A. Decrease the mass of the blue cube
+A. Increase the mass of the blue cube
 
 B. Increase the mass of the pink sphere
 
-C. Decrease the mass of the pink sphere
+C. Decrease the mass of the blue cube
 
-D. Increase the mass of the blue cube
+D. Decrease the mass of the pink sphere
+
+**00315**
+
+If the pink sphere were much heavier, which direction would the green pulley rotate?
+
+A. Stationary
+
+B. Anti-clockwise
+
+C. Clockwise
 
 ----
 
@@ -172,33 +168,33 @@ D. Increase the mass of the blue cube
 
 **00944**
 
-How many hollow pulleys are there in the video?
+Is the tension of the purple rope greater than that of the green rope?
 
 **00945**
 
-How many brown objects are there in the video?
+How many red objects are there in the video?
 
 **00946**
 
-What can we do to let the green pulley to rotate clockwise?
+If the brown cube were much heavier, which of the following would happen?
 
-A. Increase the mass of the pink cube
+A. The purple pulley would not move
 
-B. Decrease the mass of the white cube
+B. The brown pulley would not rotate
 
-C. Increase the mass of the brown cube
+C. The brown pulley would move down
 
-D. Decrease the mass of the brown cube
+D. The pink pulley would not move
 
 **00947**
 
-If the pink cube were much lighter, which direction would the brown cube move?
+Which direction would the pink cube move if the pink cube were much lighter?
 
 A. Down
 
-B. Stationary
+B. Up
 
-C. Up
+C. Stationary
 
 ----
 
@@ -210,35 +206,33 @@ C. Up
 
 **01628**
 
-How many brown objects are there in the video?
+How many yellow objects are there in the video?
 
 **01629**
 
-How many pulleys are there in the video?
+Is the mass of the yellow cube greater than that of the gray sphere?
 
 **01630**
 
-Which of the following would happen if the yellow cube were much lighter?
+What can we do to let the yellow cube to move down?
 
-A. The pink pulley would rotate clockwise
+A. Increase the mass of the yellow cube
 
-B. The blue pulley would move up
+B. Decrease the mass of the yellow cube
 
-C. The gray sphere would move up
+C. Increase the mass of the gray sphere
 
-D. The gray sphere would move down
-
-E. The green pulley would rotate clockwise
+D. Decrease the mass of the gray sphere
 
 **01631**
 
-Which direction would the pink pulley move if the yellow cube were much heavier?
+What would happen if the gray sphere were much heavier?
 
-A. Up
+A. The yellow cube would move up
 
-B. Down
+B. The blue pulley would rotate clockwise
 
-C. Stationary
+C. The green pulley would move down
 
 ----
 
@@ -250,31 +244,35 @@ C. Stationary
 
 **01528**
 
-How many gray objects are there in the video?
+Is the mass of the brown cube less than that of the pink cube?
 
 **01529**
 
-Is there any purple rope in the video?
+Is there any green rope in the video?
 
 **01530**
 
-Which direction would the white pulley rotate if the brown cube were much heavier?
+If the yellow cube were much heavier, which of the following would happen?
 
-A. Anti-clockwise
+A. The purple pulley would not rotate
 
-B. Clockwise
+B. The brown cube would move down
 
-C. Stationary
+C. The yellow cube would move down
+
+D. The pink cube would move up
+
+E. The brown pulley would not rotate
 
 **01531**
 
-If the brown cube were much heavier, what would happen?
+If the pink cube were much lighter, which direction would the purple pulley move?
 
-A. The purple pulley would move up
+A. Down
 
-B. The pink pulley would not rotate
+B. Stationary
 
-C. The brown cube would move down
+C. Up
 
 ----
 
@@ -286,33 +284,35 @@ C. The brown cube would move down
 
 **00180**
 
-How many blue objects are there in the video?
+How many spheres are there in the video?
 
 **00181**
 
-How many ropes are there in the video?
+How many green objects are there in the video?
 
 **00182**
 
-Which direction would the pink pulley rotate if the yellow cube were much heavier?
+Which direction would the pink pulley rotate if the green cube were much heavier?
 
-A. Stationary
+A. Clockwise
 
 B. Anti-clockwise
 
-C. Clockwise
+C. Stationary
 
 **00183**
 
-What can we do to let the yellow pulley to rotate clockwise?
+Which of the following would happen if the green cube were much lighter?
 
-A. Increase the mass of the green cube
+A. The pink pulley would move up
 
-B. Increase the mass of the yellow cube
+B. The pink pulley would rotate clockwise
 
-C. Decrease the mass of the yellow cube
+C. The pink pulley would rotate anti-clockwise
 
-D. Decrease the mass of the green cube
+D. The cyan pulley would not move
+
+E. The green pulley would move down
 
 ----
 
@@ -324,37 +324,33 @@ D. Decrease the mass of the green cube
 
 **00060**
 
-How many ropes are there in the video?
+Is there any gray sphere in the video?
 
 **00061**
 
-How many brown objects are there in the video?
+Is the tension of the blue rope greater than that of the green rope?
 
 **00062**
 
-If we want the gray sphere to move down, what can we do?
+Which direction would the yellow solid pulley rotate if the blue sphere were much heavier?
 
-A. Decrease the mass of the blue cube
+A. Stationary
 
-B. Decrease the mass of the blue sphere
+B. Anti-clockwise
 
-C. Decrease the mass of the gray sphere
-
-D. Increase the mass of the gray sphere
-
-E. Increase the mass of the blue cube
+C. Clockwise
 
 **00063**
 
-If the blue cube were much heavier, what would happen?
+If the blue cube were much lighter, what would happen?
 
-A. The green sphere would move down
+A. The green pulley would not move
 
-B. The green pulley would rotate anti-clockwise
+B. The gray sphere would move up
 
-C. The orange pulley would not rotate
+C. The orange pulley would not move
 
-D. The yellow hollow pulley would rotate clockwise
+D. The gray sphere would move down
 
 ----
 
@@ -366,33 +362,33 @@ D. The yellow hollow pulley would rotate clockwise
 
 **00740**
 
-How many orange objects are there in the video?
+Is there any cyan hollow pulley in the video?
 
 **00741**
 
-How many fixed points are there in the video?
+How many cubes are there in the video?
 
 **00742**
 
-Which direction would the blue pulley rotate if the yellow sphere were much heavier?
+What can we do to let the yellow sphere to move down?
 
-A. Anti-clockwise
+A. Decrease the mass of the red sphere
 
-B. Stationary
+B. Increase the mass of the yellow sphere
 
-C. Clockwise
+C. Decrease the mass of the yellow sphere
+
+D. Increase the mass of the red sphere
 
 **00743**
 
-What can we do to let the pink pulley to move up?
+Which direction would the green pulley move if the red sphere were much lighter?
 
-A. Increase the mass of the red sphere
+A. Stationary
 
-B. Decrease the mass of the yellow sphere
+B. Up
 
-C. Increase the mass of the yellow sphere
-
-D. Decrease the mass of the red sphere
+C. Down
 
 ----
 
@@ -404,31 +400,37 @@ D. Decrease the mass of the red sphere
 
 **00340**
 
-Is the mass of the pink sphere equal to that of the pink cube?
+Is the mass of the pink sphere less than that of the pink cube?
 
 **00341**
 
-How many white objects are there in the video?
+How many ropes are there in the video?
 
 **00342**
 
-If the pink sphere were much lighter, which direction would the orange pulley move?
+If the pink cube were much lighter, which of the following would happen?
 
-A. Up
+A. The orange pulley would move down
 
-B. Down
+B. The green pulley would not move
 
-C. Stationary
+C. The purple pulley would move down
+
+D. The pink cube would move up
+
+E. The orange pulley would rotate clockwise
 
 **00343**
 
-What can we do to let the red pulley to rotate anti-clockwise?
+If we want the red pulley to rotate clockwise, what can we do?
 
 A. Increase the mass of the pink sphere
 
-B. Increase the mass of the pink cube
+B. Decrease the mass of the pink sphere
 
 C. Decrease the mass of the pink cube
+
+D. Increase the mass of the pink cube
 
 ----
 
@@ -440,35 +442,35 @@ C. Decrease the mass of the pink cube
 
 **00988**
 
-How many yellow objects are there in the video?
+Is there any purple solid pulley in the video?
 
 **00989**
 
-How many fixed points are there in the video?
+How many cubes are there in the video?
 
 **00990**
 
-If the green sphere were much heavier, which direction would the gray solid pulley rotate?
+What can we do to let the gray cube to move down?
 
-A. Clockwise
+A. Decrease the mass of the blue sphere
 
-B. Stationary
+B. Decrease the mass of the gray cube
 
-C. Anti-clockwise
+C. Increase the mass of the orange sphere
+
+D. Increase the mass of the blue sphere
+
+E. Increase the mass of the gray cube
 
 **00991**
 
-What can we do to let the gray hollow pulley to rotate anti-clockwise?
+If the green sphere were much lighter, which direction would the gray cube move?
 
-A. Decrease the mass of the gray cube
+A. Stationary
 
-B. Decrease the mass of the orange sphere
+B. Down
 
-C. Increase the mass of the green sphere
-
-D. Increase the mass of the orange sphere
-
-E. Decrease the mass of the green sphere
+C. Up
 
 ----
 
@@ -480,35 +482,33 @@ E. Decrease the mass of the green sphere
 
 **01660**
 
-How many fixed points are there in the video?
+How many solid pulleys are there in the video?
 
 **01661**
 
-Is the tension of the cyan rope equal to that of the red rope?
+How many white objects are there in the video?
 
 **01662**
 
-If we want the brown solid pulley to rotate anti-clockwise, what can we do?
+If we want the yellow pulley to rotate anti-clockwise, what can we do?
 
-A. Increase the mass of the orange cube
+A. Increase the mass of the gray cube
 
-B. Increase the mass of the gray cube
+B. Decrease the mass of the orange cube
 
-C. Decrease the mass of the orange cube
-
-D. Increase the mass of the green sphere
-
-E. Increase the mass of the purple sphere
+C. Increase the mass of the green sphere
 
 **01663**
 
-If the purple sphere were much lighter, which of the following would happen?
+Which of the following would happen if the green sphere were much lighter?
 
-A. The brown hollow pulley would not move
+A. The purple sphere would move down
 
-B. The yellow pulley would rotate clockwise
+B. The cyan pulley would move down
 
-C. The orange cube would move up
+C. The yellow pulley would rotate clockwise
+
+D. The orange cube would move down
 
 ----
 
@@ -520,35 +520,31 @@ C. The orange cube would move up
 
 **01580**
 
-How many brown objects are there in the video?
+How many ropes are there in the video?
 
 **01581**
 
-How many solid pulleys are there in the video?
+How many blue objects are there in the video?
 
 **01582**
 
-If the gray sphere were much heavier, what would happen?
-
-A. The orange pulley would rotate clockwise
-
-B. The orange pulley would not move
-
-C. The purple pulley would rotate clockwise
-
-D. The yellow pulley would not rotate
-
-E. The green pulley would not rotate
-
-**01583**
-
-If the cyan cube were much lighter, which direction would the red pulley rotate?
+If the cyan cube were much heavier, which direction would the purple pulley rotate?
 
 A. Clockwise
 
-B. Anti-clockwise
+B. Stationary
 
-C. Stationary
+C. Anti-clockwise
+
+**01583**
+
+If the gray sphere were much lighter, which of the following would happen?
+
+A. The purple pulley would rotate anti-clockwise
+
+B. The cyan cube would move down
+
+C. The red pulley would not rotate
 
 ----
 
@@ -560,33 +556,37 @@ C. Stationary
 
 **00240**
 
-Is the mass of the red cube less than that of the green cube?
+Is the mass of the green cube greater than that of the red cube?
 
 **00241**
 
-How many fixed points are there in the video?
+How many blue objects are there in the video?
 
 **00242**
 
-If the green cube were much heavier, which direction would the green cube move?
+What would happen if the red cube were much lighter?
 
-A. Down
+A. The purple pulley would not move
 
-B. Up
+B. The green cube would move down
 
-C. Stationary
+C. The yellow pulley would rotate clockwise
+
+D. The blue pulley would move down
+
+E. The red cube would move up
 
 **00243**
 
-If we want the cyan pulley to rotate clockwise, what can we do?
+What can we do to let the yellow pulley to rotate clockwise?
 
-A. Decrease the mass of the green cube
+A. Increase the mass of the green cube
 
-B. Increase the mass of the green cube
+B. Decrease the mass of the red cube
 
-C. Decrease the mass of the red cube
+C. Increase the mass of the red cube
 
-D. Increase the mass of the red cube
+D. Decrease the mass of the green cube
 
 ----
 
@@ -598,35 +598,35 @@ D. Increase the mass of the red cube
 
 **00888**
 
-Is the mass of the green sphere equal to that of the pink cube?
+Is there any purple fixed point in the video?
 
 **00889**
 
-How many cubes are there in the video?
+Is the mass of the pink cube less than that of the green sphere?
 
 **00890**
 
-What can we do to let the cyan pulley to rotate clockwise?
+If we want the red pulley to rotate clockwise, what can we do?
 
 A. Decrease the mass of the green sphere
 
-B. Decrease the mass of the pink cube
+B. Increase the mass of the green sphere
 
-C. Increase the mass of the pink cube
+C. Decrease the mass of the pink cube
 
-D. Increase the mass of the green sphere
+D. Increase the mass of the pink cube
 
 **00891**
 
-If the green sphere were much heavier, which of the following would happen?
+If the pink cube were much heavier, which of the following would happen?
 
-A. The cyan pulley would move up
+A. The cyan pulley would rotate anti-clockwise
 
-B. The yellow pulley would rotate anti-clockwise
+B. The green sphere would move down
 
-C. The gray pulley would move down
+C. The gray pulley would rotate clockwise
 
-D. The red pulley would rotate clockwise
+D. The red pulley would rotate anti-clockwise
 
 ----
 
@@ -638,33 +638,31 @@ D. The red pulley would rotate clockwise
 
 **00772**
 
-How many fixed points are there in the video?
+How many green objects are there in the video?
 
 **00773**
 
-Is the mass of the red cube less than that of the cyan cube?
+How many ropes are there in the video?
 
 **00774**
 
-What can we do to let the pink pulley to rotate anti-clockwise?
+What can we do to let the pink pulley to rotate clockwise?
 
-A. Decrease the mass of the white cube
+A. Increase the mass of the white cube
 
-B. Increase the mass of the cyan cube
+B. Decrease the mass of the cyan cube
 
-C. Increase the mass of the white cube
+C. Increase the mass of the red cube
 
 **00775**
 
-If the cyan cube were much heavier, what would happen?
+If the cyan cube were much heavier, which direction would the pink pulley move?
 
-A. The yellow pulley would move up
+A. Up
 
-B. The purple pulley would rotate clockwise
+B. Stationary
 
-C. The purple pulley would rotate anti-clockwise
-
-D. The yellow pulley would not rotate
+C. Down
 
 ----
 
@@ -676,33 +674,35 @@ D. The yellow pulley would not rotate
 
 **01440**
 
-How many red objects are there in the video?
+How many spheres are there in the video?
 
 **01441**
 
-Is the tension of the white rope less than that of the red rope?
+How many gray objects are there in the video?
 
 **01442**
 
-Which direction would the green pulley rotate if the cyan cube were much lighter?
+Which direction would the red pulley rotate if the cyan cube were much lighter?
 
 A. Stationary
 
-B. Anti-clockwise
+B. Clockwise
 
-C. Clockwise
+C. Anti-clockwise
 
 **01443**
 
-What can we do to let the brown pulley to move up?
+If we want the brown pulley to rotate anti-clockwise, what can we do?
 
-A. Increase the mass of the blue cube
+A. Decrease the mass of the cyan cube
 
-B. Decrease the mass of the green cube
+B. Increase the mass of the cyan cube
 
-C. Increase the mass of the cyan cube
+C. Increase the mass of the blue cube
 
-D. Decrease the mass of the blue cube
+D. Increase the mass of the green cube
+
+E. Decrease the mass of the blue cube
 
 ----
 
@@ -714,33 +714,31 @@ D. Decrease the mass of the blue cube
 
 **01372**
 
-How many spheres are there in the video?
+Is the mass of the red sphere less than that of the white sphere?
 
 **01373**
 
-Is there any white fixed point in the video?
+How many yellow objects are there in the video?
 
 **01374**
 
-Which of the following would happen if the red sphere were much heavier?
+If the red sphere were much lighter, which of the following would happen?
 
-A. The purple hollow pulley would move down
+A. The purple solid pulley would not rotate
 
-B. The purple hollow pulley would rotate anti-clockwise
+B. The red sphere would move down
 
-C. The purple solid pulley would not rotate
-
-D. The cyan cube would move up
+C. The white pulley would rotate clockwise
 
 **01375**
 
-What can we do to let the white pulley to rotate anti-clockwise?
+If the red sphere were much heavier, which direction would the purple hollow pulley rotate?
 
-A. Decrease the mass of the cyan cube
+A. Anti-clockwise
 
-B. Decrease the mass of the red sphere
+B. Clockwise
 
-C. Decrease the mass of the white sphere
+C. Stationary
 
 ----
 
@@ -752,31 +750,33 @@ C. Decrease the mass of the white sphere
 
 **01996**
 
-How many hollow pulleys are there in the video?
+Is the mass of the yellow sphere less than that of the blue sphere?
 
 **01997**
 
-Is there any pink sphere in the video?
+How many purple objects are there in the video?
 
 **01998**
 
-Which direction would the cyan pulley rotate if the gray cube were much lighter?
+If the blue sphere were much heavier, which direction would the yellow sphere move?
 
-A. Clockwise
+A. Up
 
 B. Stationary
 
-C. Anti-clockwise
+C. Down
 
 **01999**
 
-If we want the yellow sphere to move up, what can we do?
+What can we do to let the blue sphere to move down?
 
-A. Decrease the mass of the yellow sphere
+A. Increase the mass of the blue sphere
 
-B. Increase the mass of the blue sphere
+B. Decrease the mass of the blue sphere
 
-C. Increase the mass of the gray cube
+C. Increase the mass of the yellow sphere
+
+D. Decrease the mass of the gray cube
 
 ----
 
@@ -788,33 +788,31 @@ C. Increase the mass of the gray cube
 
 **01616**
 
-Is the tension of the blue rope equal to that of the blue rope?
+Is there any white sphere in the video?
 
 **01617**
 
-How many pulleys are there in the video?
+How many hollow pulleys are there in the video?
 
 **01618**
 
-If the white cube were much lighter, which direction would the yellow solid pulley move?
+If we want the white cube to move down, what can we do?
 
-A. Up
+A. Increase the mass of the white cube
 
-B. Down
+B. Decrease the mass of the cyan cube
 
-C. Stationary
+C. Decrease the mass of the white cube
 
 **01619**
 
-If we want the pink pulley to rotate anti-clockwise, what can we do?
+If the white cube were much lighter, what would happen?
 
-A. Decrease the mass of the white cube
+A. The white cube would move up
 
-B. Increase the mass of the cyan cube
+B. The cyan cube would move down
 
-C. Increase the mass of the white cube
-
-D. Decrease the mass of the cyan cube
+C. The yellow solid pulley would not rotate
 
 ----
 
@@ -826,31 +824,31 @@ D. Decrease the mass of the cyan cube
 
 **00288**
 
-How many hollow pulleys are there in the video?
+How many gray objects are there in the video?
 
 **00289**
 
-Is the tension of the green rope less than that of the green rope?
+Is the mass of the white cube equal to that of the red cube?
 
 **00290**
 
-What can we do to let the red pulley to rotate clockwise?
+Which direction would the red pulley rotate if the white cube were much lighter?
 
-A. Decrease the mass of the white cube
+A. Clockwise
 
-B. Increase the mass of the red cube
+B. Anti-clockwise
 
-C. Decrease the mass of the red cube
+C. Stationary
 
 **00291**
 
-If the white cube were much lighter, which direction would the cyan pulley move?
+If we want the red cube to move up, what can we do?
 
-A. Down
+A. Increase the mass of the red cube
 
-B. Up
+B. Decrease the mass of the red cube
 
-C. Stationary
+C. Increase the mass of the white cube
 
 ----
 
@@ -862,13 +860,25 @@ C. Stationary
 
 **00924**
 
-How many green objects are there in the video?
+How many fixed points are there in the video?
 
 **00925**
 
-How many hollow pulleys are there in the video?
+How many pink objects are there in the video?
 
 **00926**
+
+If the red sphere were much lighter, which of the following would happen?
+
+A. The orange pulley would move up
+
+B. The white pulley would move down
+
+C. The gray pulley would not move
+
+D. The gray pulley would rotate clockwise
+
+**00927**
 
 If we want the red sphere to move up, what can we do?
 
@@ -876,23 +886,9 @@ A. Increase the mass of the red sphere
 
 B. Decrease the mass of the red cube
 
-C. Decrease the mass of the red sphere
+C. Increase the mass of the red cube
 
-D. Increase the mass of the red cube
-
-**00927**
-
-Which of the following would happen if the red sphere were much lighter?
-
-A. The blue pulley would move down
-
-B. The blue pulley would not rotate
-
-C. The red sphere would move down
-
-D. The orange pulley would not rotate
-
-E. The red cube would move down
+D. Decrease the mass of the red sphere
 
 ----
 
@@ -904,35 +900,31 @@ E. The red cube would move down
 
 **00832**
 
-How many cubes are there in the video?
+Is the tension of the red rope less than half that of the cyan rope?
 
 **00833**
 
-Is the mass of the yellow cube greater than half that of the pink sphere?
+Is the mass of the yellow cube greater than twice that of the pink sphere?
 
 **00834**
 
-Which of the following would happen if the yellow cube were much heavier?
+If we want the yellow cube to move up, what can we do?
 
-A. The pink sphere would move down
+A. Decrease the mass of the yellow cube
 
-B. The yellow cube would move up
+B. Increase the mass of the pink sphere
 
-C. The orange hollow pulley would not rotate
-
-D. The red pulley would rotate anti-clockwise
+C. Increase the mass of the yellow cube
 
 **00835**
 
-If we want the pink sphere to move down, what can we do?
+Which direction would the red pulley move if the yellow cube were much lighter?
 
-A. Increase the mass of the pink sphere
+A. Down
 
-B. Increase the mass of the yellow cube
+B. Up
 
-C. Decrease the mass of the yellow cube
-
-D. Decrease the mass of the pink sphere
+C. Stationary
 
 ----
 
@@ -944,35 +936,33 @@ D. Decrease the mass of the pink sphere
 
 **01488**
 
-Is the tension of the yellow rope greater than that of the yellow rope?
+Is the mass of the white sphere less than that of the blue cube?
 
 **01489**
 
-Is the mass of the white sphere less than that of the blue cube?
+Is the tension of the green rope greater than that of the yellow rope?
 
 **01490**
 
-Which of the following would happen if the white sphere were much lighter?
+If we want the blue cube to move down, what can we do?
 
-A. The yellow pulley would not rotate
+A. Decrease the mass of the gray sphere
 
-B. The white pulley would rotate anti-clockwise
+B. Increase the mass of the blue cube
 
-C. The white pulley would move up
+C. Decrease the mass of the white sphere
 
-D. The white pulley would rotate clockwise
+D. Decrease the mass of the blue cube
 
 **01491**
 
-If we want the blue cube to move up, what can we do?
+Which direction would the gray sphere move if the gray sphere were much heavier?
 
-A. Decrease the mass of the blue cube
+A. Down
 
-B. Increase the mass of the gray sphere
+B. Stationary
 
-C. Decrease the mass of the gray sphere
-
-D. Increase the mass of the white sphere
+C. Up
 
 ----
 
@@ -984,31 +974,33 @@ D. Increase the mass of the white sphere
 
 **00148**
 
-Is the tension of the red rope less than that of the red rope?
+How many cyan objects are there in the video?
 
 **00149**
 
-Is there any green sphere in the video?
+How many spheres are there in the video?
 
 **00150**
 
-If the yellow cube were much lighter, which direction would the orange pulley move?
+Which direction would the brown pulley rotate if the yellow sphere were much lighter?
 
-A. Stationary
+A. Clockwise
 
-B. Down
+B. Stationary
 
-C. Up
+C. Anti-clockwise
 
 **00151**
 
-What can we do to let the orange pulley to rotate anti-clockwise?
+If the yellow cube were much heavier, which of the following would happen?
 
-A. Decrease the mass of the yellow cube
+A. The yellow sphere would move down
 
-B. Increase the mass of the yellow sphere
+B. The orange pulley would not move
 
-C. Decrease the mass of the yellow sphere
+C. The brown pulley would rotate anti-clockwise
+
+D. The yellow pulley would rotate clockwise
 
 ----
 
@@ -1020,31 +1012,37 @@ C. Decrease the mass of the yellow sphere
 
 **00036**
 
-How many ropes are there in the video?
+Is there any green rope in the video?
 
 **00037**
 
-Is the mass of the white sphere less than that of the yellow cube?
+How many purple objects are there in the video?
 
 **00038**
 
-If the yellow cube were much lighter, which direction would the green sphere move?
+If the gray cube were much heavier, what would happen?
 
-A. Stationary
+A. The cyan pulley would rotate clockwise
 
-B. Down
+B. The pink pulley would not move
 
-C. Up
+C. The pink pulley would rotate anti-clockwise
+
+D. The gray cube would move down
 
 **00039**
 
-Which of the following would happen if the yellow cube were much heavier?
+If we want the yellow cube to move down, what can we do?
 
-A. The pink pulley would rotate anti-clockwise
+A. Decrease the mass of the yellow cube
 
-B. The cyan pulley would rotate anti-clockwise
+B. Decrease the mass of the green sphere
 
-C. The gray cube would move down
+C. Decrease the mass of the white sphere
+
+D. Decrease the mass of the gray cube
+
+E. Increase the mass of the yellow cube
 
 ----
 
@@ -1056,37 +1054,31 @@ C. The gray cube would move down
 
 **00712**
 
-How many hollow pulleys are there in the video?
+How many orange objects are there in the video?
 
 **00713**
 
-Is there any black rope in the video?
+Is there any gray solid pulley in the video?
 
 **00714**
 
-What would happen if the white sphere were much heavier?
+Which direction would the purple sphere move if the orange cube were much heavier?
 
-A. The white sphere would move down
+A. Up
 
-B. The yellow solid pulley would move up
+B. Down
 
-C. The purple sphere would move down
-
-D. The red pulley would rotate anti-clockwise
-
-E. The white sphere would move up
+C. Stationary
 
 **00715**
 
-What can we do to let the orange cube to move down?
+What can we do to let the yellow solid pulley to rotate clockwise?
 
-A. Increase the mass of the orange cube
+A. Increase the mass of the white sphere
 
 B. Increase the mass of the purple sphere
 
-C. Decrease the mass of the purple sphere
-
-D. Decrease the mass of the white sphere
+C. Increase the mass of the orange cube
 
 ----
 
@@ -1102,29 +1094,29 @@ Is the mass of the gray sphere greater than half that of the gray cube?
 
 **00613**
 
-Is the tension of the red rope less than half that of the green rope?
+Is there any yellow sphere in the video?
 
 **00614**
 
-What would happen if the red cube were much lighter?
+What can we do to let the gray sphere to move up?
 
-A. The pink pulley would not move
+A. Decrease the mass of the red cube
 
-B. The brown static pulley would not rotate
+B. Increase the mass of the gray sphere
 
-C. The cyan pulley would not rotate
+C. Increase the mass of the gray cube
 
-D. The brown dynamic pulley would not rotate
+D. Increase the mass of the red cube
 
 **00615**
 
-If the gray sphere were much lighter, which direction would the red pulley rotate?
+If the gray cube were much heavier, which direction would the red pulley move?
 
-A. Clockwise
+A. Down
 
-B. Anti-clockwise
+B. Stationary
 
-C. Stationary
+C. Up
 
 ----
 
@@ -1136,7 +1128,7 @@ C. Stationary
 
 **01308**
 
-Is the tension of the black rope equal to that of the black rope?
+Is there any blue sphere in the video?
 
 **01309**
 
@@ -1144,27 +1136,27 @@ Is the mass of the green sphere less than that of the brown sphere?
 
 **01310**
 
-What would happen if the green sphere were much heavier?
+If we want the orange pulley to rotate anti-clockwise, what can we do?
 
-A. The gray pulley would move up
-
-B. The gray pulley would rotate clockwise
-
-C. The orange pulley would rotate anti-clockwise
-
-D. The white pulley would not rotate
-
-**01311**
-
-If we want the orange pulley to rotate clockwise, what can we do?
-
-A. Decrease the mass of the green sphere
+A. Decrease the mass of the white cube
 
 B. Increase the mass of the green sphere
 
 C. Increase the mass of the brown sphere
 
-D. Decrease the mass of the white cube
+D. Increase the mass of the white cube
+
+E. Decrease the mass of the green sphere
+
+**01311**
+
+If the brown sphere were much lighter, which direction would the gray pulley move?
+
+A. Stationary
+
+B. Up
+
+C. Down
 
 ----
 
