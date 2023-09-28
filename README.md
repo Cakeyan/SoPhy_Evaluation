@@ -13,7 +13,6 @@ https://docs.qq.com/sheet/DUlFvSG5sWEFYWlNB?tab=BB08J2
 
 
 
-
-**Create a new column, do not revise other users column.**
+**DO NOT revise other users column.**
 
 Last but not least, thank you very much!

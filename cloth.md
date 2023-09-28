@@ -1,6 +1,10 @@
 # cloth
 
+**NOTE: If you do not know the answer, choose RANDOMLY!!!!**
+
 **NOTE: Correct choices may be one or more!!**
+
+**There is no need for you to answer all.**
 
 ## 350
 
