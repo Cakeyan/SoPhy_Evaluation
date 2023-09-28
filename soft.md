@@ -17,15 +17,21 @@ Is the plasticity of the brown ball much greater than the red ball?
 **00811**
 
 If we removed the blue floating wall and other balls, which pit would the green ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **00812**
 
 Will the red ball finally drop into the right pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 ----
@@ -43,15 +49,21 @@ Is the plasticity of the red ball much greater than the orange ball?
 **01291**
 
 Will the orange ball finally drop into the left pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 **01292**
 
 If we removed the orange floating wall and other balls, which pit would the orange ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -69,15 +81,21 @@ Is the elasticity of the red ball much less than the brown ball?
 **00289**
 
 If we removed the white floating wall and other balls, which pit would the brown ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **00290**
 
 What can we do to make the brown ball drop into the left pit?
+
 A. Remove the orange floating wall and other balls.
+
 B. Remove the white floating wall and other balls.
+
 C. None of the above.
 
 ----
@@ -95,15 +113,21 @@ Is the elasticity of the orange ball much less than the green ball?
 **00235**
 
 Will the yellow ball finally drop into the left pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 **00236**
 
 If we removed the blue floating wall and other balls, which pit would the green ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -121,15 +145,21 @@ Is the elasticity of the blue ball much less than the yellow ball?
 **00709**
 
 What can we do to make the cyan ball drop into the left pit?
+
 A. Remove the white floating wall and other balls.
+
 B. Remove the purple floating wall and other balls.
+
 C. None of the above.
 
 **00710**
 
 If we removed the white floating wall and other balls, which pit would the cyan ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -147,15 +177,21 @@ Is the plasticity of the purple ball much greater than the green ball?
 **01222**
 
 What can we do to make the purple ball drop into the left pit?
+
 A. Remove the cyan floating wall and other balls.
+
 B. Remove the blue floating wall and other balls.
+
 C. None of the above.
 
 **01223**
 
 Will the green ball finally drop into the left pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 ----
@@ -173,15 +209,21 @@ Is the elasticity of the yellow ball much greater than the purple ball?
 **01147**
 
 Will the purple ball finally drop into the right pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 **01148**
 
 If we removed the blue floating wall and other balls, which pit would the cyan ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -199,15 +241,21 @@ Is the elasticity of the pink ball much less than the brown ball?
 **00136**
 
 If we removed the blue floating wall and other balls, which pit would the pink ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **00137**
 
 What can we do to make the purple ball drop into the right pit?
+
 A. Remove the blue floating wall and other balls
+
 B. Remove the pink floating wall and other balls
+
 C. None of the above
 
 ----
@@ -225,15 +273,21 @@ Is the elasticity of the yellow ball much greater than the red ball?
 **00046**
 
 If we removed the black floating wall and other balls, which pit would the red ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **00047**
 
 What can we do to make the yellow ball drop into the left pit?
+
 A. Remove the black floating wall and other balls.
+
 B. Remove the red floating wall and other balls.
+
 C. None of the above.
 
 ----
@@ -251,15 +305,21 @@ Is the elasticity of the pink ball much greater than the orange ball?
 **00556**
 
 If we removed the black floating wall and other balls, which pit would the purple ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **00557**
 
 Will the orange ball finally drop into the left pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 ----
@@ -277,15 +337,21 @@ Is the elasticity of the white ball much less than the yellow ball?
 **00256**
 
 What can we do to make the green ball drop into the left pit?
+
 A. Remove the brown floating wall and other balls.
+
 B. Remove the pink floating wall and other balls.
+
 C. None of the above.
 
 **00257**
 
 Will the white ball finally drop into the right pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 ----
@@ -303,15 +369,21 @@ Is the plasticity of the cyan ball much greater than the yellow ball?
 **00742**
 
 If we removed the pink floating wall and other balls, which pit would the yellow ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **00743**
 
 What can we do to make the yellow ball drop into the right pit?
+
 A. Remove the pink floating wall and other balls
+
 B. Remove the purple floating wall and other balls
+
 C. None of the above
 
 ----
@@ -329,15 +401,21 @@ Is the elasticity of the brown ball much greater than the purple ball?
 **01246**
 
 If we removed the red floating wall and other balls, which pit would the purple ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **01247**
 
 What can we do to make the orange ball drop into the left pit?
+
 A. Remove the red floating wall and other balls.
+
 B. Remove the purple floating wall and other balls.
+
 C. None of the above.
 
 ----
@@ -355,15 +433,21 @@ Is the plasticity of the purple ball much less than the green ball?
 **01186**
 
 Will the purple ball finally drop into the right pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 **01187**
 
 If we removed the white floating wall and other balls, which pit would the green ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -381,15 +465,21 @@ Is the plasticity of the cyan ball much greater than the orange ball?
 **00181**
 
 If we removed the cyan floating wall and other balls, which pit would the white ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **00182**
 
 Will the white ball finally drop into the right pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 ----
@@ -407,15 +497,21 @@ Is the plasticity of the pink ball much greater than the black ball?
 **00667**
 
 What can we do to make the pink ball drop into the right pit?
+
 A. Remove the white floating wall and other balls
+
 B. Remove the pink floating wall and other balls
+
 C. None of the above
 
 **00668**
 
 If we removed the white floating wall and other balls, which pit would the black ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -433,15 +529,21 @@ Is the elasticity of the green ball much greater than the cyan ball?
 **00580**
 
 If we removed the black floating wall and other balls, which pit would the red ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **00581**
 
 What can we do to make the cyan ball drop into the right pit?
+
 A. Remove the black floating wall and other balls
+
 B. Remove the white floating wall and other balls
+
 C. None of the above
 
 ----
@@ -459,15 +561,21 @@ Is the plasticity of the brown ball much less than the purple ball?
 **01081**
 
 If we removed the blue floating wall and other balls, which pit would the orange ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **01082**
 
 Will the purple ball finally drop into the left pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 ----
@@ -485,15 +593,21 @@ Is the plasticity of the green ball much less than the blue ball?
 **01030**
 
 If we removed the brown floating wall and other balls, which pit would the green ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **01031**
 
 Will the green ball finally drop into the right pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 ----
@@ -511,15 +625,21 @@ Is the elasticity of the orange ball much greater than the black ball?
 **01498**
 
 What can we do to make the orange ball drop into the right pit?
+
 A. Remove the pink floating wall and other balls
+
 B. Remove the brown floating wall and other balls
+
 C. None of the above
 
 **01499**
 
 If we removed the pink floating wall and other balls, which pit would the white ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -537,15 +657,21 @@ Is the plasticity of the red ball much less than the cyan ball?
 **01213**
 
 Will the yellow ball finally drop into the left pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 **01214**
 
 If we removed the pink floating wall and other balls, which pit would the yellow ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -563,15 +689,21 @@ Is the plasticity of the black ball much less than the green ball?
 **00217**
 
 What can we do to make the black ball drop into the left pit?
+
 A. Remove the cyan floating wall and other balls.
+
 B. Remove the white floating wall and other balls.
+
 C. None of the above.
 
 **00218**
 
 Will the cyan ball finally drop into the left pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 ----
@@ -589,15 +721,21 @@ Is the elasticity of the blue ball much less than the green ball?
 **00694**
 
 Will the blue ball finally drop into the right pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 **00695**
 
 What can we do to make the yellow ball drop into the left pit?
+
 A. Remove the yellow floating wall and other balls.
+
 B. Remove the green floating wall and other balls.
+
 C. None of the above.
 
 ----
@@ -615,15 +753,21 @@ Is the elasticity of the black ball much less than the blue ball?
 **00625**
 
 Will the pink ball finally drop into the left pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 **00626**
 
 If we removed the yellow floating wall and other balls, which pit would the black ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -641,15 +785,21 @@ Is the plasticity of the red ball much greater than the black ball?
 **01117**
 
 Will the black ball finally drop into the right pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 **01118**
 
 If we removed the cyan floating wall and other balls, which pit would the black ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -667,15 +817,21 @@ Is the plasticity of the cyan ball much greater than the purple ball?
 **00112**
 
 If we removed the red floating wall and other balls, which pit would the purple ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **00113**
 
 What can we do to make the purple ball drop into the left pit?
+
 A. Remove the red floating wall and other balls.
+
 B. Remove the blue floating wall and other balls.
+
 C. None of the above.
 
 ----
@@ -693,15 +849,21 @@ Is the plasticity of the blue ball much greater than the purple ball?
 **00028**
 
 What can we do to make the purple ball drop into the right pit?
+
 A. Remove the red floating wall and other balls
+
 B. Remove the green floating wall and other balls
+
 C. None of the above
 
 **00029**
 
 If we removed the red floating wall and other balls, which pit would the purple ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
@@ -719,15 +881,21 @@ Is the elasticity of the cyan ball much greater than the purple ball?
 **00535**
 
 If we removed the red floating wall and other balls, which pit would the cyan ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 **00536**
 
 Will the pink ball finally drop into the right pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 ----
@@ -745,15 +913,21 @@ Is the elasticity of the orange ball much less than the black ball?
 **00460**
 
 Will the orange ball finally drop into the right pit?
+
 A. Yes
+
 B. No
+
 C. Can not answer
 
 **00461**
 
 What can we do to make the purple ball drop into the right pit?
+
 A. Remove the red floating wall and other balls
+
 B. Remove the white floating wall and other balls
+
 C. None of the above
 
 ----
@@ -771,15 +945,21 @@ Is the plasticity of the black ball much less than the blue ball?
 **00982**
 
 What can we do to make the blue ball drop into the left pit?
+
 A. Remove the cyan floating wall and other balls.
+
 B. Remove the black floating wall and other balls.
+
 C. None of the above.
 
 **00983**
 
 If we removed the cyan floating wall and other balls, which pit would the blue ball drop into?
+
 A. The left pit
+
 B. The right pit
+
 C. None of the above
 
 ----
